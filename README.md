@@ -1,2 +1,2 @@
-# README
-Herkese Merhaba, ben Mahmut Ozkan.
+#Herkese Merhaba, ben Mahmut Ozkan.
+
