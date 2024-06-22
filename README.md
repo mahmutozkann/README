@@ -1,6 +1,6 @@
 # Herkese Merhaba, ben Mahmut Ozkan.
--> Istanbul Topakapi Universitesinde Yazilim Muhendisligi Ogrencisiyim.
+-> İstanbul Topkapı Üniversitesi Yazılım Mühendisliği 4. Sınıf Öğrencisiyim.
 
--> Kendimi IOS Development alaninda gelistiriyorum.
+-> Kendimi Mobile Development alaninda gelistiriyorum.
 
--> Swift kullanarak projeler uretmeye calisiyorum.
+-> Swift, SwiftUI, Flutter kullanarak mobil uygulamalar geliştiriyorum.
